@@ -1,0 +1,27 @@
+install anaconda
+
+start anaconda-navigator
+
+environment menu
+
+create environment
+
+open terminal at your environment
+
+pip install --ignore-installed --upgrade tensorflow
+
+conda install -c menpo opencv3
+
+conda install -c conda-forge tqdm
+
+pip install tflearn
+
+https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition/data
+
+download cat and dog data
+
+unzip file
+
+catdog.py is training script
+
+result.py is to show result
